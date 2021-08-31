@@ -3,18 +3,18 @@
 IMLS Final Project description: 
 ### Libraries
 The following libraries were used for the project: 
-OS, pathlib - for file manipulation 
+OS, pathlib, RE - for file manipulation 
 Statistics for maths operations
 Pandas - for working with dataframes
 NumPy - for working with image arrays
 TensorFlow for deep learning modelling
 tensorflow.keras.models for Model, layers, losses 
 sklearn.metrics for accuracy_score, precision_score, recall_score, roc_curve, auc
-The RandomForest was implemented using Scikit-learn library
+The RandomForest algorithm was implemented using Scikit-learn library
 tqdm - a Python library used to display smart progress bars that show the progress of Python code execution.
 
 ### Other required files 
-The models have been developed in Jupyter Notebooks, using TensorFlow 2.2
+The models have been developed in Jupyter Notebooks, using TensorFlow version 2.5.0.
 
 2. IMLS Final Project File Organisation: 
 $ -- MLforPDThesis
